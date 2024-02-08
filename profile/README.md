@@ -11,12 +11,10 @@
   <tr align = "center">
     <td><a href="https://github.com/ajung7038"><img src="https://avatars.githubusercontent.com/u/80907516?v=4" width=200></a></td>
     <td><a href="https://github.com/NamJihyun99"><img src="https://avatars.githubusercontent.com/u/87467801?v=4" width=200></a></td>
-    <td><a href="https://github.com/godjunhee7"><img src="https://avatars.githubusercontent.com/u/114278708?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/ajung7038">Ajeong</a></td>
     <td><a href = "https://github.com/NmaJihyun99">NmaJihyun99 </a></td>
-    <td><a href = "https://github.com/godjunhee7">godjunhee7 </a></td>
   </tr>
 </table>
 
