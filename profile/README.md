@@ -14,7 +14,7 @@
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/ajung7038">Ajeong</a></td>
-    <td><a href = "https://github.com/NmaJihyun99">NamJihyun99 </a></td>
+    <td><a href = "https://github.com/NamJihyun99">NamJihyun99 </a></td>
   </tr>
 </table>
 
